@@ -69,13 +69,26 @@ ZeroToQuery is best used as a starting point that accelerates the query writing 
 
 ---
 
-## Artifact Snapshot
+### Artifact Snapshot
+
+### Demo
+![ZeroToQuery Demo](demo.gif)
 
 ### Application Interface
 ![App Interface](screenshots/app_interface.png)
 
 ### Sample Output
 ![Sample Output](screenshots/sample_output.png)
+
+### Clean Query Output
+![Clean Output](screenshots/clean_output.png)
+
+### ZeroToQuery Mascot
+The ZeroToQuery bot mascot appears in the sidebar, representing the tool's mission to make SQL accessible to everyone.
+
+![ZTQ Bot](ZTQ%20Bot.png)
+
+---
 
 ---
 
@@ -100,3 +113,19 @@ cd ZeroToQuery
 2. Click Generate SQL Query
 3. Copy the generated query and adjust table and column names to match your database
 4. Run the query in your SQL environment
+
+## Future Improvements
+
+- **Database Schema Input** — Allow users to paste their actual table and column names so generated queries match their real database structure without manual adjustment
+- **SQL Dialect Selector** — Support multiple SQL dialects including Snowflake, PostgreSQL, MySQL, and SQL Server so queries are environment-ready out of the box
+- **Query History** — Save and display recent queries within a session so users can reference or reuse previous results
+- **Query Validation** — Add a layer that checks generated queries for common syntax errors before displaying them to the user
+- **Export to Excel** — Allow users to download query results directly to Excel for reporting workflows
+- **Natural Language Follow-up** — Allow users to refine a generated query by describing changes in plain English without starting over
+
+## Built With
+
+- [Python](https://www.python.org/)
+- [Streamlit](https://streamlit.io/)
+- [Anthropic Claude API](https://www.anthropic.com/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/)
