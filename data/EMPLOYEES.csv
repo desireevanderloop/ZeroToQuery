@@ -1,0 +1,26 @@
+EMPLOYEE_ID,FIRST_NAME,LAST_NAME,BRANCH_ID,DEPARTMENT,JOB_TITLE,HIRE_DATE,SALARY,STATUS
+1,Angel,Hill,2,Compliance,Compliance Officer,2020-12-06,43325.57,Active
+2,Jill,Rhodes,5,Operations,Teller,2014-09-09,47432.24,Active
+3,Christopher,Henderson,2,Lending,Loan Processor,2024-09-21,64361.86,Terminated
+4,Jeffery,Wagner,5,Operations,Teller,2011-10-16,73906.99,Active
+5,James,Santos,1,IT,Systems Analyst,2011-09-28,65808.08,Active
+6,Jeffrey,Lawrence,2,Operations,Teller,2019-07-08,64398.56,Active
+7,Adam,Shaffer,3,Member Services,Member Services Rep,2023-06-26,46915.53,Active
+8,Matthew,Moore,5,Finance,Senior Financial Analyst,2021-10-24,84777.8,Active
+9,Matthew,Davis,5,Lending,Senior Loan Officer,2025-09-12,46176.41,Active
+10,Melanie,Munoz,2,Member Services,Account Specialist,2012-10-16,52191.3,Terminated
+11,Jessica,Herrera,4,Member Services,Member Services Rep,2023-06-13,87331.84,Active
+12,Nicholas,Arnold,3,Member Services,Member Services Manager,2025-12-08,75691.28,Active
+13,Christine,Hensley,1,Member Services,Member Services Rep,2023-10-13,77519.28,Active
+14,Janet,Williams,2,Finance,Finance Manager,2020-01-01,51070.35,Active
+15,Keith,Miller,5,IT,IT Manager,2014-10-05,56307.23,Active
+16,Craig,Ramirez,1,Operations,Teller,2014-11-01,59186.98,Active
+17,Michael,Wood,1,Operations,Branch Operations Analyst,2020-11-16,84667.43,Active
+18,Joseph,Zuniga,4,Operations,Teller,2014-06-26,88447.48,Active
+19,Chelsea,Jackson,2,IT,Database Administrator,2021-01-22,66319.15,Active
+20,Frank,Gray,4,Compliance,Risk Analyst,2022-04-12,70565.8,Active
+21,Danielle,Hawkins,2,Finance,Senior Financial Analyst,2026-03-08,61185.81,Active
+22,Megan,Parsons,1,Finance,Senior Financial Analyst,2021-08-11,46818.2,Terminated
+23,Antonio,Stewart,5,Operations,Teller,2014-10-11,50479.05,Active
+24,Jason,Hahn,5,Lending,Senior Loan Officer,2015-05-11,62225.82,Active
+25,Leonard,Rios,1,Member Services,Account Specialist,2024-06-26,87621.32,Terminated

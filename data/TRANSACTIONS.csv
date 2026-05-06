@@ -1,0 +1,501 @@
+TRANSACTION_ID,ACCOUNT_ID,MEMBER_ID,TRANSACTION_DATE,TRANSACTION_TYPE,AMOUNT,RUNNING_BALANCE,DESCRIPTION,CHANNEL,BRANCH_ID
+1,16,3,2025-03-27,Transfer,4337.9,10872.81,Internal Transfer,ATM,2
+2,83,59,2024-11-16,Withdrawal,3812.14,57512.31,Cash Withdrawal,ATM,5
+3,69,82,2024-12-31,Fee,16.26,6511.33,Monthly Service Fee,Mobile,5
+4,72,50,2025-07-04,Transfer,2284.38,41534.98,Zelle Transfer,Branch,1
+5,118,19,2025-06-27,Transfer,4253.53,67653.06,External Transfer,ATM,4
+6,55,58,2024-11-12,Fee,13.06,70426.37,Wire Fee,ATM,5
+7,125,1,2025-01-22,Transfer,4472.89,64815.37,Internal Transfer,Branch,4
+8,5,90,2024-10-24,Deposit,7901.94,13512.8,ACH Transfer In,Branch,4
+9,52,50,2025-09-05,Withdrawal,4413.1,25728.38,Wire Transfer,Branch,3
+10,65,22,2025-04-10,Deposit,3176.38,76832.64,Mobile Check Deposit,Branch,4
+11,79,68,2024-08-29,Withdrawal,2157.57,7842.81,ATM Withdrawal,Branch,2
+12,123,56,2025-09-18,Deposit,1149.63,19303.6,ACH Transfer In,Branch,1
+13,88,50,2026-03-10,Deposit,8399.61,35954.45,Mobile Check Deposit,Mobile,1
+14,59,5,2026-02-12,Fee,7.68,68525.74,Monthly Service Fee,Online,3
+15,77,5,2025-11-18,Withdrawal,1925.95,69154.94,Bill Payment,ATM,1
+16,136,23,2025-09-21,Interest,96.82,55286.72,CD Interest Payment,Online,2
+17,39,3,2025-08-14,Fee,23.48,37658.39,Overdraft Fee,Branch,1
+18,36,57,2026-03-23,Deposit,5021.64,32704.31,ACH Transfer In,Online,2
+19,64,96,2025-01-28,Transfer,3230.21,21169.38,Zelle Transfer,Online,1
+20,78,96,2024-10-13,Withdrawal,2598.39,43358.47,Cash Withdrawal,Online,1
+21,62,87,2026-04-04,Fee,16.58,20567.84,Monthly Service Fee,Branch,3
+22,82,47,2025-04-19,Withdrawal,1946.45,71328.83,Cash Withdrawal,Online,5
+23,45,1,2025-04-02,Fee,33.63,65504.16,Monthly Service Fee,Branch,1
+24,68,88,2026-04-27,Withdrawal,218.34,5233.81,Cash Withdrawal,Online,5
+25,107,56,2025-02-02,Fee,26.05,7098.12,Overdraft Fee,Online,1
+26,80,96,2025-09-30,Deposit,4358.31,17351.47,Mobile Check Deposit,Online,4
+27,17,85,2026-03-03,Transfer,3499.41,62073.47,Internal Transfer,Branch,2
+28,23,71,2025-11-09,Fee,8.48,52084.0,Monthly Service Fee,Online,2
+29,31,1,2025-12-12,Deposit,6024.46,59657.32,Mobile Check Deposit,Mobile,3
+30,134,66,2025-12-29,Interest,6660.82,61292.99,Monthly Interest Credit,Online,2
+31,69,82,2025-11-12,Deposit,6562.87,2592.35,ACH Transfer In,Online,5
+32,17,85,2025-09-14,Transfer,3567.37,49057.73,Internal Transfer,Mobile,4
+33,131,89,2025-07-14,Transfer,296.09,73059.65,Internal Transfer,Online,2
+34,66,46,2025-12-01,Deposit,7603.92,57332.82,Payroll Direct Deposit,ATM,5
+35,1,61,2025-05-24,Deposit,7302.39,1143.26,Payroll Direct Deposit,Mobile,3
+36,99,23,2025-05-26,Withdrawal,911.23,81633.05,ATM Withdrawal,Mobile,2
+37,83,59,2025-01-24,Withdrawal,2092.96,61252.44,Wire Transfer,Branch,5
+38,96,100,2026-03-06,Deposit,4279.8,76674.79,Mobile Check Deposit,ATM,5
+39,12,4,2024-07-26,Fee,7.07,39586.5,Wire Fee,Online,3
+40,23,71,2025-12-31,Interest,3895.92,31421.25,CD Interest Payment,Online,5
+41,63,5,2026-02-24,Fee,16.05,82610.72,Overdraft Fee,ATM,2
+42,2,22,2024-09-29,Fee,5.72,46077.19,Monthly Service Fee,Online,1
+43,97,17,2025-06-01,Transfer,537.67,45081.25,Internal Transfer,Mobile,4
+44,16,3,2024-09-02,Withdrawal,3564.03,7997.96,Bill Payment,Mobile,3
+45,118,19,2026-01-19,Deposit,4947.03,43010.82,ACH Transfer In,Branch,5
+46,146,100,2025-03-23,Deposit,3711.48,81962.13,Mobile Check Deposit,Online,3
+47,81,97,2025-09-14,Fee,26.02,62531.46,Wire Fee,Mobile,3
+48,60,13,2025-10-11,Deposit,8021.63,11655.9,Payroll Direct Deposit,ATM,1
+49,43,85,2025-04-27,Fee,18.98,34612.92,Wire Fee,ATM,4
+50,79,68,2026-02-21,Fee,12.95,10280.66,Overdraft Fee,Online,5
+51,11,58,2025-03-26,Withdrawal,4182.91,27929.68,ATM Withdrawal,ATM,3
+52,102,39,2024-06-14,Interest,439.86,25471.58,Monthly Interest Credit,Branch,4
+53,116,24,2024-08-09,Interest,6364.96,21312.49,CD Interest Payment,Branch,2
+54,32,30,2025-03-04,Deposit,547.65,66403.5,Mobile Check Deposit,ATM,2
+55,103,55,2025-06-21,Transfer,3437.7,79700.11,Internal Transfer,Online,1
+56,6,6,2025-06-17,Deposit,1700.93,54944.29,Mobile Check Deposit,Branch,3
+57,32,30,2025-09-08,Deposit,8010.83,4399.14,ACH Transfer In,Mobile,4
+58,8,56,2024-12-16,Fee,25.5,14771.33,Overdraft Fee,ATM,3
+59,72,50,2024-05-20,Fee,31.5,3041.74,Overdraft Fee,Online,4
+60,106,65,2024-11-07,Interest,4084.79,7547.56,CD Interest Payment,ATM,4
+61,52,50,2024-05-07,Interest,2136.53,84498.01,Savings Interest,Branch,4
+62,92,8,2024-10-11,Fee,21.34,41249.29,Wire Fee,Mobile,3
+63,47,71,2024-06-27,Deposit,2727.49,18694.81,Cash Deposit,Branch,4
+64,136,23,2025-03-10,Transfer,3838.87,84966.53,Internal Transfer,Branch,2
+65,62,87,2025-09-28,Transfer,2677.77,67276.04,Zelle Transfer,Branch,2
+66,148,20,2025-06-04,Fee,15.64,71349.97,Overdraft Fee,ATM,2
+67,82,47,2024-06-18,Transfer,4571.62,2494.74,Zelle Transfer,Online,5
+68,145,67,2026-02-17,Withdrawal,2824.28,16081.04,Cash Withdrawal,Online,2
+69,126,38,2026-04-25,Deposit,789.93,19849.72,Mobile Check Deposit,Branch,5
+70,123,56,2025-04-15,Deposit,2836.45,52240.04,Mobile Check Deposit,Online,2
+71,83,59,2024-11-30,Deposit,210.71,49903.12,Mobile Check Deposit,Branch,5
+72,94,43,2024-09-13,Deposit,3191.18,80069.28,ACH Transfer In,Branch,3
+73,78,96,2024-08-11,Transfer,699.53,13472.08,External Transfer,Mobile,3
+74,45,1,2025-08-16,Interest,5902.92,78958.96,CD Interest Payment,ATM,5
+75,45,1,2025-10-20,Fee,14.2,58553.52,Overdraft Fee,ATM,1
+76,147,43,2026-04-09,Fee,30.52,65543.5,Monthly Service Fee,ATM,5
+77,82,47,2025-02-02,Interest,1897.09,48115.22,CD Interest Payment,ATM,3
+78,20,28,2026-02-15,Withdrawal,1747.11,27227.14,ATM Withdrawal,Online,4
+79,3,75,2025-03-28,Transfer,1064.23,58950.65,External Transfer,Online,1
+80,1,61,2026-03-06,Deposit,3295.82,62296.42,Mobile Check Deposit,Mobile,4
+81,97,17,2025-02-04,Transfer,2739.2,8711.28,External Transfer,ATM,2
+82,116,24,2024-07-02,Deposit,6798.17,2936.75,Payroll Direct Deposit,Online,3
+83,27,32,2026-04-09,Deposit,2921.82,75485.36,Mobile Check Deposit,Branch,5
+84,24,2,2026-02-03,Transfer,2978.27,52198.44,External Transfer,Branch,4
+85,43,85,2024-08-10,Interest,7565.66,13438.11,Monthly Interest Credit,Online,2
+86,49,53,2026-01-23,Fee,25.92,61401.04,Wire Fee,Online,3
+87,61,61,2024-07-30,Deposit,445.66,48643.26,ACH Transfer In,ATM,1
+88,93,85,2026-04-30,Deposit,3648.96,25107.25,ACH Transfer In,ATM,1
+89,7,83,2025-02-16,Withdrawal,870.74,24874.79,ATM Withdrawal,Mobile,1
+90,79,68,2024-08-06,Fee,19.13,76075.1,Wire Fee,Branch,5
+91,100,96,2026-04-20,Withdrawal,1867.68,32484.7,Bill Payment,Mobile,1
+92,68,88,2026-01-05,Fee,18.95,19307.97,Wire Fee,Branch,2
+93,25,33,2025-11-08,Deposit,5687.5,68714.5,ACH Transfer In,ATM,5
+94,16,3,2026-04-20,Fee,29.55,35641.86,ATM Fee,ATM,4
+95,77,5,2025-04-08,Deposit,3370.97,72599.49,Payroll Direct Deposit,ATM,1
+96,115,79,2025-10-12,Withdrawal,4746.33,14292.29,Bill Payment,ATM,2
+97,11,58,2025-03-11,Fee,7.35,58097.35,Overdraft Fee,ATM,5
+98,67,88,2025-02-06,Transfer,4555.81,77713.37,Internal Transfer,Branch,4
+99,143,58,2024-10-19,Fee,21.56,72827.39,ATM Fee,Branch,5
+100,134,66,2025-04-06,Fee,8.38,12804.63,Monthly Service Fee,Branch,5
+101,26,74,2024-08-26,Transfer,4340.03,74823.53,External Transfer,Online,4
+102,125,1,2024-09-19,Interest,5185.95,3280.84,CD Interest Payment,Mobile,2
+103,103,55,2026-02-03,Deposit,3379.34,74723.5,Mobile Check Deposit,Branch,4
+104,69,82,2025-11-15,Transfer,120.76,69496.07,External Transfer,Online,3
+105,126,38,2024-05-28,Deposit,8266.91,19453.58,Cash Deposit,Mobile,3
+106,69,82,2025-08-30,Fee,23.15,7680.45,ATM Fee,ATM,4
+107,125,1,2025-07-28,Interest,7374.43,69804.38,Savings Interest,ATM,1
+108,80,96,2026-03-20,Interest,3443.69,66365.84,Savings Interest,Branch,2
+109,50,16,2026-02-13,Withdrawal,4188.14,21281.72,Cash Withdrawal,Branch,3
+110,51,54,2024-10-27,Transfer,1854.39,39512.15,External Transfer,Branch,1
+111,62,87,2024-06-23,Transfer,2454.16,37974.18,External Transfer,Online,3
+112,42,42,2025-07-13,Transfer,3749.83,58583.41,External Transfer,Branch,4
+113,13,34,2025-03-27,Withdrawal,4272.03,66307.58,Bill Payment,ATM,2
+114,53,36,2025-09-08,Transfer,3264.9,43677.58,Zelle Transfer,Branch,4
+115,34,55,2026-02-01,Withdrawal,3013.69,818.57,Wire Transfer,Online,3
+116,109,20,2024-10-30,Fee,30.55,39068.93,Overdraft Fee,Mobile,3
+117,134,66,2024-06-06,Interest,3390.87,8786.3,Savings Interest,Online,5
+118,73,38,2025-03-21,Transfer,3428.38,40999.59,External Transfer,Online,3
+119,71,82,2025-06-03,Transfer,3287.48,80940.74,Zelle Transfer,Online,2
+120,39,3,2025-11-07,Interest,6512.4,76483.43,Savings Interest,Mobile,3
+121,36,57,2025-11-23,Deposit,5579.52,84785.13,Cash Deposit,Mobile,4
+122,100,96,2024-08-15,Deposit,4966.13,84554.59,Mobile Check Deposit,Online,2
+123,137,88,2026-05-01,Fee,32.2,57141.63,Wire Fee,ATM,5
+124,47,71,2024-10-23,Transfer,506.06,10962.46,External Transfer,ATM,3
+125,23,71,2026-03-05,Withdrawal,1789.31,63283.42,Wire Transfer,Mobile,3
+126,96,100,2025-06-30,Transfer,2936.14,39473.28,Internal Transfer,Mobile,1
+127,150,72,2025-07-01,Interest,8027.95,6146.22,Monthly Interest Credit,Branch,4
+128,136,23,2025-11-20,Transfer,2077.27,74035.09,Internal Transfer,ATM,2
+129,88,50,2025-12-24,Fee,34.62,75902.55,ATM Fee,ATM,3
+130,47,71,2024-10-25,Deposit,4157.25,53674.68,Mobile Check Deposit,Online,1
+131,2,22,2026-02-04,Fee,13.21,64725.31,Overdraft Fee,ATM,4
+132,23,71,2026-04-25,Withdrawal,3080.11,53883.09,Cash Withdrawal,Mobile,4
+133,99,23,2025-05-21,Deposit,344.72,17030.27,Cash Deposit,Branch,3
+134,136,23,2025-03-03,Withdrawal,109.22,450.11,Bill Payment,ATM,3
+135,80,96,2024-11-22,Withdrawal,531.49,42833.27,Wire Transfer,ATM,1
+136,12,4,2025-06-15,Transfer,4743.35,38808.14,Zelle Transfer,Online,4
+137,35,10,2025-07-11,Transfer,4980.77,41716.17,Internal Transfer,ATM,4
+138,5,90,2025-10-24,Withdrawal,1137.12,83716.27,Bill Payment,Branch,5
+139,130,15,2024-09-10,Withdrawal,633.35,60473.25,ATM Withdrawal,Mobile,3
+140,137,88,2025-09-13,Interest,436.77,84548.35,Savings Interest,Branch,1
+141,13,34,2025-06-15,Deposit,3557.17,32383.54,Cash Deposit,Mobile,2
+142,53,36,2024-06-08,Deposit,2576.96,56275.32,Cash Deposit,ATM,4
+143,27,32,2025-01-11,Interest,6116.54,10095.66,Monthly Interest Credit,Branch,4
+144,51,54,2025-08-18,Interest,1717.88,22428.18,Savings Interest,ATM,3
+145,105,92,2025-02-07,Transfer,818.66,46636.98,Internal Transfer,Mobile,3
+146,61,61,2025-05-23,Deposit,133.05,7656.34,Payroll Direct Deposit,Mobile,2
+147,24,2,2025-09-26,Interest,661.03,61531.62,CD Interest Payment,ATM,4
+148,76,81,2025-02-27,Transfer,2332.1,8573.78,Internal Transfer,Branch,3
+149,93,85,2024-12-10,Transfer,2141.46,9940.0,Internal Transfer,Branch,2
+150,44,41,2024-09-16,Transfer,1800.49,37261.96,Zelle Transfer,Online,1
+151,96,100,2025-06-02,Transfer,930.69,34126.01,External Transfer,Online,4
+152,123,56,2024-10-28,Fee,24.47,67757.62,Monthly Service Fee,ATM,1
+153,41,82,2024-10-16,Deposit,3550.83,50254.7,ACH Transfer In,ATM,5
+154,98,2,2026-01-21,Transfer,3064.56,73332.68,Zelle Transfer,ATM,4
+155,125,1,2024-08-18,Deposit,7547.36,37514.4,Payroll Direct Deposit,Online,3
+156,4,92,2025-04-08,Interest,6529.81,49057.5,Savings Interest,ATM,3
+157,133,29,2024-06-16,Interest,5857.85,52588.49,CD Interest Payment,ATM,4
+158,89,76,2025-03-02,Fee,9.46,70264.57,Monthly Service Fee,Branch,2
+159,130,15,2025-03-05,Fee,30.56,73913.39,Monthly Service Fee,Mobile,3
+160,62,87,2025-05-27,Transfer,4851.32,4374.78,Internal Transfer,Mobile,4
+161,61,61,2025-02-12,Deposit,3915.83,68127.08,ACH Transfer In,Branch,4
+162,115,79,2024-11-07,Transfer,611.16,42327.0,Zelle Transfer,Branch,1
+163,104,42,2025-01-01,Fee,6.07,46718.49,Monthly Service Fee,Online,5
+164,144,83,2024-07-01,Withdrawal,3279.89,38832.05,Wire Transfer,Online,1
+165,58,91,2025-03-29,Fee,14.96,65253.65,ATM Fee,Online,4
+166,30,34,2025-01-31,Deposit,6460.24,18926.33,Cash Deposit,Online,3
+167,141,77,2025-05-31,Interest,3193.72,9126.76,Monthly Interest Credit,Mobile,2
+168,105,92,2026-01-01,Deposit,2180.1,16733.73,Payroll Direct Deposit,Mobile,2
+169,118,19,2024-06-11,Withdrawal,3589.6,9249.31,Cash Withdrawal,Branch,5
+170,32,30,2025-02-04,Fee,18.72,50132.94,Overdraft Fee,Mobile,1
+171,136,23,2025-07-21,Deposit,4713.59,36845.6,ACH Transfer In,ATM,5
+172,45,1,2024-06-02,Withdrawal,535.7,55923.6,Wire Transfer,Mobile,4
+173,64,96,2024-06-27,Transfer,2001.39,29208.71,External Transfer,Mobile,2
+174,36,57,2025-12-14,Fee,23.08,75358.49,Wire Fee,Online,5
+175,56,59,2025-07-08,Withdrawal,1064.37,60751.25,Wire Transfer,ATM,2
+176,129,10,2025-09-07,Interest,5909.29,27470.18,Monthly Interest Credit,Online,5
+177,123,56,2024-10-10,Interest,4861.16,56741.65,CD Interest Payment,Online,4
+178,4,92,2024-10-04,Interest,927.34,32435.89,Monthly Interest Credit,Branch,2
+179,69,82,2026-02-27,Withdrawal,4917.99,58119.84,Bill Payment,Branch,3
+180,53,36,2024-12-12,Interest,298.8,69210.83,Monthly Interest Credit,ATM,5
+181,100,96,2026-02-28,Withdrawal,2564.39,67751.18,Wire Transfer,Branch,4
+182,100,96,2024-10-06,Fee,33.7,82947.35,Wire Fee,Branch,1
+183,65,22,2024-09-20,Withdrawal,3110.4,66400.52,Cash Withdrawal,ATM,3
+184,140,8,2025-10-29,Interest,1690.08,61645.24,Monthly Interest Credit,Online,4
+185,46,97,2025-11-01,Deposit,1609.63,14855.21,Payroll Direct Deposit,Mobile,1
+186,110,13,2025-11-07,Transfer,2791.86,11142.65,Zelle Transfer,Online,1
+187,85,72,2026-03-04,Fee,26.29,13243.0,Overdraft Fee,Online,5
+188,14,2,2025-09-25,Interest,7170.61,25668.04,Savings Interest,Online,1
+189,82,47,2025-10-01,Interest,1889.18,15710.49,Monthly Interest Credit,ATM,4
+190,140,8,2025-02-18,Interest,3443.96,29764.31,Monthly Interest Credit,Online,3
+191,93,85,2024-10-26,Transfer,1107.86,64000.47,Zelle Transfer,Mobile,5
+192,3,75,2024-12-26,Deposit,5694.25,37937.15,Mobile Check Deposit,Branch,3
+193,98,2,2024-11-27,Deposit,3295.3,45966.15,Cash Deposit,Branch,5
+194,96,100,2025-04-10,Interest,6828.87,37927.78,Monthly Interest Credit,Online,2
+195,83,59,2025-08-22,Interest,722.88,8246.7,Savings Interest,Branch,1
+196,54,37,2024-12-16,Withdrawal,4327.46,36115.38,ATM Withdrawal,ATM,5
+197,112,37,2025-01-22,Deposit,6354.9,13153.76,ACH Transfer In,Online,1
+198,23,71,2026-02-09,Deposit,484.92,67528.84,Payroll Direct Deposit,ATM,3
+199,105,92,2025-04-10,Fee,18.53,34437.64,Wire Fee,Branch,4
+200,31,1,2025-12-12,Interest,74.99,61252.25,Monthly Interest Credit,Branch,1
+201,92,8,2025-10-15,Interest,924.5,66907.12,CD Interest Payment,Branch,3
+202,113,85,2025-11-12,Fee,16.85,56195.4,ATM Fee,ATM,5
+203,57,50,2024-12-25,Withdrawal,3738.83,67745.81,Wire Transfer,ATM,3
+204,96,100,2024-09-30,Deposit,4716.12,47225.42,Payroll Direct Deposit,Branch,1
+205,147,43,2024-12-19,Interest,3364.84,46584.91,Monthly Interest Credit,Online,2
+206,89,76,2024-06-07,Withdrawal,2075.02,54939.58,Bill Payment,ATM,2
+207,57,50,2026-01-26,Interest,7099.49,16598.3,Monthly Interest Credit,Branch,5
+208,119,59,2025-10-28,Interest,644.9,57126.08,CD Interest Payment,Branch,2
+209,149,84,2024-05-16,Fee,33.55,30421.05,Overdraft Fee,Branch,3
+210,18,43,2025-06-13,Withdrawal,1602.57,38359.84,Wire Transfer,ATM,5
+211,146,100,2025-07-05,Transfer,4042.34,81490.14,Internal Transfer,Branch,3
+212,64,96,2025-10-13,Withdrawal,3566.75,54507.19,Wire Transfer,Online,2
+213,85,72,2024-12-06,Fee,18.89,30557.16,Wire Fee,Mobile,5
+214,28,29,2024-09-25,Withdrawal,3234.85,7059.57,Wire Transfer,ATM,5
+215,51,54,2024-10-20,Transfer,3673.05,53299.94,Zelle Transfer,Branch,1
+216,130,15,2025-06-25,Deposit,6912.14,49248.68,Mobile Check Deposit,Branch,5
+217,67,88,2024-10-31,Interest,7601.53,45918.59,Savings Interest,ATM,3
+218,101,14,2025-06-11,Withdrawal,4459.36,50157.1,Wire Transfer,ATM,4
+219,129,10,2026-03-25,Interest,792.45,30992.19,Monthly Interest Credit,ATM,5
+220,43,85,2025-01-06,Interest,1214.64,13617.98,Savings Interest,ATM,4
+221,92,8,2025-11-14,Deposit,1879.49,41500.82,Payroll Direct Deposit,Online,3
+222,60,13,2025-04-27,Deposit,5691.26,44068.46,Cash Deposit,Mobile,4
+223,117,1,2025-10-15,Deposit,363.19,55159.75,Payroll Direct Deposit,Online,3
+224,149,84,2025-10-27,Interest,4857.11,32078.4,CD Interest Payment,Online,5
+225,20,28,2025-04-06,Interest,2157.19,82680.03,Monthly Interest Credit,Mobile,3
+226,89,76,2025-10-22,Fee,28.78,75420.9,Monthly Service Fee,ATM,4
+227,43,85,2025-01-17,Withdrawal,403.9,54731.2,Bill Payment,ATM,2
+228,41,82,2024-08-15,Transfer,3018.06,69459.49,Zelle Transfer,ATM,4
+229,85,72,2025-06-08,Deposit,4105.85,40751.36,Mobile Check Deposit,ATM,4
+230,6,6,2024-09-16,Withdrawal,234.86,48789.0,Bill Payment,ATM,5
+231,11,58,2026-02-14,Interest,1269.68,14222.38,Monthly Interest Credit,Mobile,5
+232,145,67,2026-04-28,Deposit,7470.36,61905.02,Cash Deposit,Branch,2
+233,115,79,2026-04-04,Interest,8438.78,73733.97,Monthly Interest Credit,ATM,4
+234,37,65,2025-05-23,Interest,6978.34,15541.96,Savings Interest,Online,2
+235,88,50,2026-01-08,Fee,22.9,5944.76,ATM Fee,Mobile,2
+236,28,29,2024-06-28,Deposit,1739.9,73079.33,ACH Transfer In,ATM,5
+237,25,33,2025-12-23,Withdrawal,2389.83,52292.12,ATM Withdrawal,Branch,1
+238,124,86,2024-06-09,Withdrawal,4511.88,45885.38,ATM Withdrawal,Mobile,5
+239,108,54,2024-05-09,Transfer,4376.63,59329.87,External Transfer,ATM,4
+240,98,2,2024-08-13,Transfer,2953.46,63044.35,Zelle Transfer,Branch,4
+241,35,10,2025-08-09,Transfer,2396.16,19840.34,Internal Transfer,Online,5
+242,140,8,2024-06-23,Fee,12.73,564.36,Monthly Service Fee,Branch,5
+243,2,22,2024-08-23,Fee,24.64,58491.4,Wire Fee,Mobile,3
+244,28,29,2024-10-11,Withdrawal,2141.84,49797.93,Wire Transfer,Mobile,5
+245,94,43,2025-04-03,Interest,2360.38,57883.42,Monthly Interest Credit,Mobile,5
+246,143,58,2024-06-18,Fee,10.36,47567.07,ATM Fee,Online,3
+247,148,20,2025-08-14,Transfer,3875.49,33901.22,Internal Transfer,Branch,2
+248,115,79,2026-03-18,Withdrawal,519.39,43258.37,Wire Transfer,Branch,2
+249,100,96,2026-03-03,Deposit,6842.03,69994.39,ACH Transfer In,Mobile,1
+250,17,85,2025-08-29,Transfer,1124.42,6895.37,Internal Transfer,Mobile,4
+251,134,66,2024-05-16,Transfer,3563.8,50825.42,Internal Transfer,Mobile,4
+252,3,75,2025-05-29,Withdrawal,4255.83,79121.39,Wire Transfer,ATM,1
+253,131,89,2025-03-01,Interest,5944.36,52329.63,Savings Interest,Branch,3
+254,62,87,2024-05-17,Deposit,8293.6,7472.95,Cash Deposit,Mobile,3
+255,102,39,2025-10-14,Fee,22.58,44056.36,Monthly Service Fee,Branch,5
+256,73,38,2025-05-31,Interest,7779.7,29653.29,CD Interest Payment,ATM,5
+257,50,16,2024-11-30,Fee,32.89,48909.58,Wire Fee,ATM,4
+258,130,15,2025-05-07,Deposit,4759.4,42819.06,Cash Deposit,Branch,5
+259,66,46,2025-09-27,Interest,6916.42,48908.49,Savings Interest,Mobile,4
+260,145,67,2025-03-15,Fee,28.1,64409.48,ATM Fee,Mobile,5
+261,8,56,2026-03-22,Fee,8.49,5835.36,Overdraft Fee,ATM,3
+262,106,65,2024-09-13,Transfer,2592.19,925.5,External Transfer,ATM,3
+263,24,2,2026-03-07,Fee,25.21,69809.24,Monthly Service Fee,ATM,4
+264,81,97,2025-05-23,Transfer,1108.46,48808.2,Internal Transfer,ATM,4
+265,52,50,2024-10-28,Withdrawal,3682.44,74195.84,Bill Payment,ATM,2
+266,64,96,2025-08-01,Interest,3042.33,66231.88,Monthly Interest Credit,Branch,4
+267,2,22,2024-11-05,Interest,8143.99,72096.1,CD Interest Payment,Online,4
+268,148,20,2025-01-19,Transfer,2464.21,83675.11,Zelle Transfer,Online,4
+269,57,50,2025-12-07,Interest,1111.88,44734.94,CD Interest Payment,Mobile,5
+270,9,23,2024-07-01,Interest,2968.27,73147.97,Monthly Interest Credit,Mobile,1
+271,133,29,2026-04-06,Fee,14.47,814.74,Overdraft Fee,Mobile,5
+272,26,74,2025-04-05,Transfer,1820.78,73270.39,Internal Transfer,Online,2
+273,69,82,2024-10-29,Fee,33.76,29228.89,Overdraft Fee,Mobile,4
+274,54,37,2025-09-26,Fee,26.02,31709.09,ATM Fee,Online,4
+275,47,71,2024-12-10,Interest,1136.4,48993.29,Monthly Interest Credit,Branch,3
+276,61,61,2025-12-31,Interest,3688.05,32437.0,Monthly Interest Credit,ATM,4
+277,3,75,2024-07-02,Withdrawal,2119.17,11516.65,Wire Transfer,Mobile,3
+278,65,22,2026-04-29,Interest,7300.8,4150.52,Monthly Interest Credit,ATM,1
+279,56,59,2025-08-23,Transfer,2393.17,53575.3,External Transfer,Online,3
+280,93,85,2024-05-28,Transfer,2810.54,79213.6,External Transfer,Online,1
+281,106,65,2025-02-25,Deposit,3000.49,57796.84,Mobile Check Deposit,ATM,3
+282,91,31,2025-02-04,Transfer,3372.5,41488.22,Zelle Transfer,Mobile,1
+283,98,2,2025-04-17,Interest,2453.29,53732.36,Monthly Interest Credit,ATM,3
+284,108,54,2025-08-13,Interest,4869.63,72171.68,Monthly Interest Credit,Branch,2
+285,88,50,2025-09-30,Withdrawal,1581.14,55540.81,Wire Transfer,Mobile,3
+286,114,15,2024-07-04,Transfer,3744.52,44327.44,External Transfer,Mobile,2
+287,48,4,2026-01-12,Deposit,1084.71,20019.85,Cash Deposit,Branch,2
+288,43,85,2025-08-19,Fee,8.09,5515.97,ATM Fee,Branch,1
+289,102,39,2025-01-02,Interest,6508.34,7168.03,CD Interest Payment,ATM,1
+290,100,96,2026-04-19,Transfer,1162.19,62721.67,External Transfer,ATM,2
+291,135,14,2026-04-16,Withdrawal,162.29,56435.32,Wire Transfer,Mobile,4
+292,139,8,2026-02-18,Transfer,2751.76,11571.26,Zelle Transfer,ATM,5
+293,117,1,2026-03-07,Interest,3711.43,54417.87,Savings Interest,Online,3
+294,124,86,2024-10-19,Interest,1949.91,7703.14,CD Interest Payment,Online,4
+295,67,88,2026-02-22,Withdrawal,1531.79,107.84,Bill Payment,Online,3
+296,121,87,2025-09-23,Interest,95.49,78385.3,CD Interest Payment,Online,1
+297,111,72,2025-06-23,Transfer,2993.08,67745.55,Zelle Transfer,Online,2
+298,106,65,2024-11-19,Interest,3729.48,21316.18,Savings Interest,Mobile,4
+299,57,50,2026-03-11,Transfer,414.46,53189.92,Zelle Transfer,Online,3
+300,137,88,2025-09-17,Transfer,2076.26,72560.62,Internal Transfer,ATM,3
+301,29,40,2024-11-25,Fee,23.53,23204.19,ATM Fee,ATM,3
+302,5,90,2025-06-05,Withdrawal,267.17,45519.02,Bill Payment,Branch,3
+303,69,82,2025-08-29,Withdrawal,3581.68,61831.39,Bill Payment,Branch,2
+304,4,92,2024-09-13,Fee,11.52,35778.63,ATM Fee,Online,4
+305,9,23,2026-01-16,Transfer,419.51,63823.36,Internal Transfer,Branch,3
+306,101,14,2024-05-16,Deposit,4628.55,15518.16,Cash Deposit,Mobile,1
+307,32,30,2024-10-03,Withdrawal,1936.29,82875.14,Bill Payment,Branch,2
+308,118,19,2024-08-18,Deposit,4441.65,83481.64,ACH Transfer In,Mobile,3
+309,83,59,2025-12-25,Withdrawal,3153.24,3681.58,ATM Withdrawal,Online,4
+310,77,5,2025-12-26,Withdrawal,1814.92,4522.23,Bill Payment,Branch,2
+311,112,37,2026-03-15,Transfer,95.04,67543.74,Zelle Transfer,Branch,4
+312,63,5,2024-12-09,Deposit,8235.88,49433.44,ACH Transfer In,ATM,3
+313,23,71,2025-06-21,Withdrawal,805.34,7859.99,Wire Transfer,Branch,1
+314,92,8,2025-06-23,Withdrawal,3512.61,67295.48,Bill Payment,Mobile,2
+315,82,47,2026-01-15,Interest,6708.06,64343.62,CD Interest Payment,ATM,1
+316,97,17,2025-09-11,Transfer,3627.51,21384.11,Internal Transfer,Mobile,4
+317,144,83,2025-06-04,Transfer,2722.82,41708.81,Zelle Transfer,ATM,5
+318,90,53,2025-02-09,Transfer,3667.36,23475.05,Zelle Transfer,ATM,1
+319,136,23,2025-10-27,Withdrawal,2257.93,69668.64,Wire Transfer,Mobile,1
+320,130,15,2025-12-03,Fee,27.01,75060.96,Wire Fee,ATM,3
+321,17,85,2025-09-20,Interest,6966.45,16219.92,Savings Interest,Mobile,5
+322,40,67,2024-07-01,Interest,2424.52,34892.4,CD Interest Payment,Branch,1
+323,134,66,2025-10-31,Deposit,396.01,79719.18,Mobile Check Deposit,Branch,2
+324,28,29,2025-01-12,Fee,10.75,2801.28,ATM Fee,Mobile,5
+325,66,46,2024-07-15,Deposit,3129.85,51545.46,Payroll Direct Deposit,Branch,2
+326,126,38,2024-10-21,Deposit,3991.8,54344.03,Cash Deposit,Mobile,3
+327,15,98,2024-06-29,Interest,2277.79,3551.45,Monthly Interest Credit,Online,1
+328,56,59,2025-07-21,Interest,848.09,61667.1,Savings Interest,Mobile,2
+329,50,16,2025-07-27,Interest,5592.03,48495.35,Monthly Interest Credit,Mobile,1
+330,148,20,2025-07-14,Transfer,3378.97,59746.53,External Transfer,Branch,2
+331,47,71,2026-04-13,Interest,3428.2,28754.84,Monthly Interest Credit,Mobile,3
+332,81,97,2024-12-29,Interest,8427.65,27663.13,CD Interest Payment,Mobile,4
+333,83,59,2025-08-11,Interest,2065.12,46423.67,CD Interest Payment,Online,3
+334,116,24,2025-11-28,Fee,33.79,116.61,Monthly Service Fee,Online,5
+335,5,90,2025-03-30,Interest,1169.85,75688.55,Monthly Interest Credit,Online,2
+336,55,58,2024-10-18,Transfer,128.07,69882.7,Zelle Transfer,Online,5
+337,131,89,2025-06-13,Interest,4861.41,48629.84,Monthly Interest Credit,Branch,4
+338,92,8,2025-02-03,Withdrawal,709.27,31265.34,Bill Payment,ATM,3
+339,77,5,2024-09-17,Deposit,4859.88,48413.61,Mobile Check Deposit,Branch,3
+340,124,86,2025-07-07,Withdrawal,2451.62,76427.15,ATM Withdrawal,Online,1
+341,148,20,2025-02-06,Fee,7.35,4847.84,Wire Fee,Online,4
+342,107,56,2025-11-20,Deposit,7396.44,19348.33,Payroll Direct Deposit,Mobile,1
+343,79,68,2024-12-06,Interest,374.02,45940.03,Monthly Interest Credit,Online,5
+344,57,50,2024-11-01,Withdrawal,271.59,62211.02,Cash Withdrawal,Mobile,5
+345,148,20,2024-06-27,Interest,788.45,36771.34,CD Interest Payment,ATM,2
+346,87,39,2024-11-16,Deposit,4057.87,63377.25,ACH Transfer In,Online,1
+347,103,55,2025-02-06,Interest,3707.31,59349.21,Monthly Interest Credit,Mobile,5
+348,51,54,2025-11-29,Fee,16.86,48605.97,Overdraft Fee,ATM,1
+349,69,82,2024-08-25,Fee,14.7,78559.32,Monthly Service Fee,Branch,4
+350,109,20,2025-02-13,Transfer,1754.57,27330.69,Zelle Transfer,Branch,3
+351,44,41,2025-01-23,Transfer,3088.78,84164.51,External Transfer,ATM,4
+352,12,4,2024-07-10,Withdrawal,1014.43,31837.39,ATM Withdrawal,Branch,1
+353,63,5,2026-03-25,Interest,7879.03,73857.07,CD Interest Payment,Branch,3
+354,29,40,2025-03-26,Transfer,2261.31,2031.31,Internal Transfer,ATM,2
+355,140,8,2025-11-12,Interest,6384.26,46693.12,Savings Interest,ATM,1
+356,97,17,2024-07-18,Interest,7703.69,44825.24,CD Interest Payment,ATM,1
+357,73,38,2024-07-07,Withdrawal,3950.16,52565.21,ATM Withdrawal,Mobile,1
+358,18,43,2025-03-16,Fee,24.81,56387.14,Wire Fee,Branch,1
+359,75,78,2025-06-16,Fee,11.94,32421.53,Monthly Service Fee,Online,4
+360,137,88,2025-05-14,Deposit,1604.89,42605.25,ACH Transfer In,Branch,1
+361,64,96,2024-07-19,Interest,2609.26,41695.3,Savings Interest,ATM,1
+362,89,76,2024-07-09,Transfer,1789.78,25767.5,Zelle Transfer,Online,1
+363,66,46,2025-06-14,Fee,31.71,69281.5,Monthly Service Fee,Online,2
+364,39,3,2025-07-15,Transfer,4487.93,55873.51,Internal Transfer,Mobile,5
+365,59,5,2025-11-29,Fee,12.21,13068.4,Wire Fee,Online,4
+366,139,8,2026-01-26,Withdrawal,1049.65,11865.15,Bill Payment,ATM,3
+367,135,14,2024-05-14,Withdrawal,2161.72,77274.28,Bill Payment,ATM,3
+368,18,43,2025-03-03,Interest,4541.85,61180.5,Monthly Interest Credit,Online,2
+369,8,56,2025-11-25,Transfer,4403.06,35252.01,External Transfer,Online,4
+370,71,82,2025-10-16,Withdrawal,3899.96,9164.89,Bill Payment,Branch,5
+371,69,82,2025-06-18,Interest,4830.69,19704.37,Monthly Interest Credit,ATM,1
+372,92,8,2026-04-30,Deposit,5857.0,40563.53,ACH Transfer In,Online,2
+373,100,96,2024-10-29,Fee,19.22,14005.46,Overdraft Fee,Branch,4
+374,4,92,2025-05-20,Transfer,4751.99,18994.85,Zelle Transfer,ATM,2
+375,17,85,2025-09-17,Withdrawal,4636.97,83779.79,Cash Withdrawal,Online,4
+376,64,96,2024-09-05,Fee,17.15,3651.05,ATM Fee,Online,4
+377,147,43,2024-11-17,Interest,4568.95,54554.34,Savings Interest,Branch,5
+378,28,29,2024-11-17,Fee,18.71,74622.42,Overdraft Fee,Mobile,1
+379,143,58,2024-08-19,Fee,20.48,53642.06,Monthly Service Fee,ATM,3
+380,113,85,2024-09-04,Fee,31.53,65785.18,Wire Fee,Mobile,2
+381,109,20,2024-11-22,Transfer,3073.41,4731.01,Zelle Transfer,ATM,4
+382,116,24,2024-12-10,Deposit,6149.43,9708.27,Mobile Check Deposit,Mobile,4
+383,83,59,2025-11-28,Fee,5.75,38617.49,Overdraft Fee,Mobile,1
+384,65,22,2025-01-23,Transfer,3464.75,77118.09,Internal Transfer,Branch,1
+385,30,34,2026-03-26,Fee,24.02,7342.53,ATM Fee,ATM,4
+386,141,77,2025-10-13,Fee,6.32,14608.13,Wire Fee,ATM,2
+387,38,78,2025-05-02,Withdrawal,3850.4,4456.26,Wire Transfer,Online,4
+388,74,2,2025-07-29,Withdrawal,605.42,11270.38,Bill Payment,Branch,5
+389,65,22,2025-04-04,Deposit,3912.0,72724.4,Payroll Direct Deposit,Mobile,2
+390,56,59,2024-08-12,Interest,5614.01,38622.4,CD Interest Payment,Branch,5
+391,2,22,2024-05-09,Withdrawal,4413.2,23711.79,Bill Payment,Branch,2
+392,38,78,2025-02-18,Deposit,5561.52,3217.62,Payroll Direct Deposit,Online,3
+393,23,71,2026-01-10,Deposit,947.82,84468.12,Mobile Check Deposit,Online,5
+394,147,43,2025-02-06,Interest,1528.63,38758.18,Savings Interest,Online,1
+395,24,2,2026-01-25,Transfer,1627.65,76300.28,Internal Transfer,Mobile,5
+396,17,85,2025-03-22,Transfer,2364.67,10459.77,External Transfer,Online,5
+397,106,65,2025-03-15,Interest,1803.44,17848.43,Monthly Interest Credit,Branch,5
+398,136,23,2025-12-28,Deposit,4124.04,58566.75,Cash Deposit,Mobile,5
+399,82,47,2025-08-23,Transfer,2636.45,84577.57,External Transfer,ATM,5
+400,145,67,2025-07-13,Fee,20.59,53744.71,ATM Fee,ATM,5
+401,60,13,2024-12-10,Transfer,4896.7,234.22,Internal Transfer,Mobile,1
+402,54,37,2025-07-19,Interest,8491.41,35252.09,CD Interest Payment,Online,5
+403,55,58,2025-09-25,Deposit,5454.24,58682.45,Cash Deposit,Branch,3
+404,77,5,2025-04-20,Interest,4686.2,65221.07,Monthly Interest Credit,Online,3
+405,102,39,2024-09-11,Interest,5245.54,2572.07,Monthly Interest Credit,ATM,3
+406,87,39,2025-02-20,Fee,32.48,67786.9,Overdraft Fee,Mobile,2
+407,118,19,2024-12-24,Interest,7617.99,39363.71,CD Interest Payment,Branch,5
+408,77,5,2025-10-24,Interest,6169.07,26886.19,Savings Interest,Branch,2
+409,148,20,2025-08-10,Transfer,4001.69,75493.7,External Transfer,Branch,2
+410,72,50,2026-04-12,Deposit,2899.32,31957.94,Mobile Check Deposit,Mobile,2
+411,30,34,2025-11-27,Transfer,3532.23,26801.0,Internal Transfer,Online,4
+412,23,71,2024-12-29,Fee,31.31,31647.45,Wire Fee,ATM,5
+413,78,96,2024-11-25,Withdrawal,578.91,66741.74,Bill Payment,Branch,4
+414,130,15,2025-11-30,Deposit,6796.74,76930.75,Mobile Check Deposit,ATM,3
+415,124,86,2025-01-26,Interest,2655.29,27890.99,Monthly Interest Credit,ATM,2
+416,10,56,2026-03-17,Fee,16.63,73522.39,Monthly Service Fee,Branch,3
+417,12,4,2024-09-28,Interest,7414.14,28396.3,Monthly Interest Credit,Branch,5
+418,80,96,2026-05-04,Deposit,4919.82,26600.93,Mobile Check Deposit,Online,2
+419,50,16,2024-09-13,Transfer,1397.71,27195.82,External Transfer,Branch,3
+420,39,3,2025-11-17,Withdrawal,1382.71,1395.3,ATM Withdrawal,ATM,5
+421,90,53,2024-05-24,Interest,2724.16,12118.17,Savings Interest,Online,5
+422,63,5,2025-10-18,Withdrawal,374.79,52166.02,Wire Transfer,Mobile,1
+423,34,55,2026-03-25,Deposit,4014.48,57449.61,Payroll Direct Deposit,Mobile,1
+424,23,71,2024-10-05,Fee,16.76,59927.13,ATM Fee,Online,3
+425,86,90,2025-12-09,Withdrawal,3570.24,57056.89,ATM Withdrawal,Mobile,5
+426,34,55,2026-01-02,Deposit,6913.91,78181.6,ACH Transfer In,Branch,4
+427,80,96,2024-06-24,Fee,19.12,80538.36,Overdraft Fee,Online,3
+428,101,14,2026-01-14,Withdrawal,3504.08,56573.83,Wire Transfer,Mobile,4
+429,8,56,2025-12-07,Deposit,4053.46,29937.33,ACH Transfer In,ATM,3
+430,90,53,2025-09-08,Interest,4895.4,43224.93,CD Interest Payment,Branch,3
+431,143,58,2024-08-14,Deposit,6740.85,45330.1,ACH Transfer In,Mobile,2
+432,63,5,2024-12-12,Interest,1372.7,41053.61,Monthly Interest Credit,Online,2
+433,111,72,2024-11-05,Fee,22.02,29152.85,Overdraft Fee,ATM,1
+434,147,43,2024-08-25,Fee,8.43,50706.81,Wire Fee,Branch,4
+435,46,97,2025-03-10,Transfer,4780.3,6009.69,Internal Transfer,Mobile,3
+436,127,17,2025-02-04,Deposit,792.27,69466.15,Payroll Direct Deposit,ATM,2
+437,116,24,2025-03-29,Interest,2495.49,52362.08,CD Interest Payment,ATM,2
+438,82,47,2025-07-16,Transfer,2859.98,77631.04,External Transfer,Mobile,3
+439,23,71,2025-07-04,Interest,93.81,83847.2,CD Interest Payment,ATM,3
+440,16,3,2025-05-30,Transfer,4507.36,82274.67,Internal Transfer,Online,1
+441,73,38,2026-03-11,Deposit,2018.67,59718.64,ACH Transfer In,Online,4
+442,104,42,2026-01-30,Fee,18.06,18032.24,Overdraft Fee,Mobile,2
+443,49,53,2025-03-06,Interest,3284.44,78588.53,CD Interest Payment,ATM,3
+444,33,88,2024-05-31,Withdrawal,77.78,55148.25,Bill Payment,Mobile,4
+445,35,10,2026-04-12,Deposit,1187.94,68524.44,ACH Transfer In,Mobile,5
+446,47,71,2025-09-29,Fee,20.28,46969.05,ATM Fee,Mobile,3
+447,58,91,2025-12-19,Withdrawal,2135.36,730.81,Cash Withdrawal,ATM,5
+448,69,82,2025-07-13,Fee,32.8,49032.31,Monthly Service Fee,Branch,5
+449,124,86,2026-03-04,Transfer,583.56,40982.14,Zelle Transfer,Branch,2
+450,135,14,2024-07-23,Transfer,2335.38,6742.12,Zelle Transfer,Branch,2
+451,121,87,2024-11-02,Deposit,5822.53,45877.84,Cash Deposit,Branch,3
+452,137,88,2025-09-02,Deposit,3998.66,43625.1,ACH Transfer In,Online,4
+453,91,31,2024-09-03,Transfer,1460.26,3099.2,Zelle Transfer,Online,5
+454,67,88,2025-07-26,Deposit,5358.32,49184.18,Payroll Direct Deposit,Online,5
+455,7,83,2025-06-20,Transfer,2434.11,10867.13,Internal Transfer,Online,3
+456,34,55,2025-08-19,Interest,2406.24,72932.18,Monthly Interest Credit,Branch,5
+457,45,1,2025-08-20,Interest,6287.75,56062.31,CD Interest Payment,ATM,3
+458,61,61,2026-04-11,Fee,10.42,44875.31,Monthly Service Fee,Online,1
+459,38,78,2025-01-02,Interest,7940.16,13187.36,CD Interest Payment,Mobile,4
+460,61,61,2025-12-08,Fee,26.78,14302.35,Wire Fee,Branch,3
+461,30,34,2024-07-21,Deposit,1445.41,33953.43,Cash Deposit,Mobile,5
+462,60,13,2024-07-16,Fee,25.51,33216.98,Wire Fee,ATM,5
+463,112,37,2024-10-14,Deposit,2472.51,67791.54,ACH Transfer In,Online,5
+464,11,58,2025-11-01,Deposit,7802.61,54217.31,ACH Transfer In,Online,3
+465,70,87,2025-06-16,Transfer,4015.54,21778.7,Zelle Transfer,Mobile,4
+466,62,87,2025-09-19,Interest,6554.96,44243.95,Savings Interest,ATM,3
+467,141,77,2024-10-13,Deposit,5727.0,70710.44,Payroll Direct Deposit,Mobile,1
+468,135,14,2025-02-02,Deposit,5834.61,29943.74,Cash Deposit,Online,2
+469,9,23,2025-04-08,Deposit,5274.39,4929.27,Mobile Check Deposit,Branch,1
+470,23,71,2025-09-13,Interest,1125.96,55827.9,Savings Interest,ATM,1
+471,48,4,2025-09-21,Transfer,1486.95,56174.57,Internal Transfer,Mobile,3
+472,110,13,2024-08-23,Transfer,1301.54,66384.09,External Transfer,Branch,4
+473,100,96,2026-05-04,Transfer,4979.87,22024.46,External Transfer,ATM,4
+474,18,43,2025-04-22,Fee,34.38,17136.81,ATM Fee,ATM,4
+475,28,29,2024-12-06,Withdrawal,2712.35,36713.43,ATM Withdrawal,Mobile,3
+476,27,32,2026-03-08,Deposit,642.99,48607.15,Cash Deposit,Mobile,1
+477,128,10,2024-07-06,Withdrawal,3271.27,173.66,ATM Withdrawal,Mobile,3
+478,39,3,2026-01-02,Transfer,4525.0,48886.96,Zelle Transfer,Mobile,4
+479,112,37,2025-10-20,Fee,30.32,66401.55,Monthly Service Fee,ATM,1
+480,99,23,2025-01-14,Fee,8.64,45547.32,Wire Fee,Online,3
+481,103,55,2025-01-10,Deposit,5383.51,81504.15,Payroll Direct Deposit,Online,5
+482,88,50,2025-11-29,Deposit,7154.01,64662.47,Cash Deposit,ATM,2
+483,142,74,2025-05-20,Deposit,8224.67,56196.32,Cash Deposit,Mobile,1
+484,92,8,2025-01-14,Fee,7.55,53823.98,Overdraft Fee,ATM,1
+485,50,16,2024-07-15,Deposit,6124.79,50441.07,ACH Transfer In,Mobile,1
+486,139,8,2025-10-14,Transfer,2508.43,82024.58,External Transfer,Branch,1
+487,87,39,2025-03-31,Deposit,2887.17,61313.92,ACH Transfer In,Branch,2
+488,134,66,2024-06-23,Fee,33.2,73979.98,Overdraft Fee,ATM,1
+489,10,56,2024-06-06,Withdrawal,2454.7,1718.45,ATM Withdrawal,ATM,2
+490,4,92,2025-10-06,Withdrawal,3170.65,76905.83,ATM Withdrawal,Mobile,5
+491,44,41,2024-05-21,Interest,567.04,69503.24,Monthly Interest Credit,Mobile,5
+492,57,50,2025-01-10,Deposit,6842.74,36285.35,ACH Transfer In,Online,1
+493,148,20,2024-07-23,Interest,1188.87,71112.66,Monthly Interest Credit,Branch,5
+494,45,1,2025-12-10,Transfer,334.85,23353.55,External Transfer,ATM,3
+495,142,74,2026-03-15,Withdrawal,2204.53,78689.85,ATM Withdrawal,ATM,1
+496,97,17,2025-10-28,Withdrawal,97.84,41443.54,ATM Withdrawal,Branch,2
+497,23,71,2025-05-17,Interest,7541.61,35437.27,CD Interest Payment,ATM,2
+498,37,65,2025-06-12,Transfer,2624.97,35081.46,Internal Transfer,Branch,5
+499,47,71,2025-01-01,Fee,23.36,7573.0,Wire Fee,Online,4
+500,2,22,2025-03-12,Interest,2022.04,10076.41,Savings Interest,Branch,5

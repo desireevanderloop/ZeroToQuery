@@ -1,0 +1,6 @@
+BRANCH_ID,BRANCH_NAME,ADDRESS,CITY,STATE,ZIP_CODE,PHONE,MANAGER_NAME,DATE_OPENED,STATUS
+1,Downtown Baltimore,100 N Charles St,Baltimore,MD,21201,410-555-0101,Sandra Mitchell,2005-03-15,Active
+2,Towson,825 Dulaney Valley Rd,Towson,MD,21204,410-555-0202,James Okafor,2008-06-01,Active
+3,Columbia,6300 Dobbin Rd,Columbia,MD,21045,410-555-0303,Maria Gonzalez,2011-09-12,Active
+4,Annapolis,2002 West St,Annapolis,MD,21401,410-555-0404,Robert Chen,2014-04-20,Active
+5,Silver Spring,8601 Georgia Ave,Silver Spring,MD,20910,301-555-0505,Diane Washington,2018-11-05,Active

@@ -1,0 +1,101 @@
+MEMBER_ID,FIRST_NAME,LAST_NAME,EMAIL,PHONE,DATE_OF_BIRTH,DATE_JOINED,MEMBERSHIP_STATUS,MEMBERSHIP_TYPE,BRANCH_ID,CREDIT_SCORE,EMPLOYER,ANNUAL_INCOME
+1,Stephen,Baker,julieryan@example.net,410-969-6532,1973-04-16,2025-04-25,Active,Business,3,754,University of Maryland,166911.79
+2,Brandon,Rodriguez,laurahenderson@example.org,410-669-7848,1979-11-24,2015-06-08,Active,Individual,3,655,BGE,96258.14
+3,Jennifer,Maldonado,kayla51@example.com,410-627-0482,2000-04-08,2014-06-25,Active,Business,3,775,Self-Employed,56048.35
+4,Colleen,Skinner,ericfarmer@example.net,410-809-5701,1979-10-16,2015-08-15,Active,Individual,3,743,Anne Arundel County,107703.07
+5,Marie,Parker,allenashley@example.org,410-171-8227,2004-03-25,2024-11-19,Inactive,Individual,5,621,Leidos,112682.51
+6,Allison,Obrien,sarahcampos@example.net,410-346-5787,2005-04-05,2016-04-28,Active,Joint,2,705,Johns Hopkins University,31057.85
+7,Matthew,Chapman,briannasmith@example.net,410-031-0518,1957-05-12,2017-01-14,Active,Individual,4,641,Self-Employed,165847.51
+8,Jason,Anderson,esanchez@example.com,410-311-6566,1964-02-24,2022-05-15,Inactive,Individual,2,597,Morgan State University,181543.57
+9,Emily,Joyce,brownjessica@example.org,410-333-8726,1977-06-06,2023-02-02,Active,Joint,5,701,Self-Employed,176655.24
+10,Nancy,Jones,williamsyvette@example.org,410-132-6773,1960-12-26,2019-11-23,Active,Business,2,735,Towson University,94432.66
+11,Franklin,Smith,ybaker@example.com,410-468-7234,2000-06-29,2025-03-03,Suspended,Business,3,659,Under Armour,90641.79
+12,Jill,Brown,brian97@example.net,410-820-8121,1962-12-20,2015-01-17,Active,Individual,2,810,University of Maryland,109259.41
+13,Joe,Wilson,bethwilliams@example.org,410-699-8543,1984-11-08,2022-06-11,Inactive,Individual,5,666,T. Rowe Price,31302.38
+14,Joseph,Anderson,stephen10@example.com,410-991-1838,1989-03-10,2018-02-10,Suspended,Individual,2,581,University of Maryland,39145.91
+15,Nicole,Suarez,justin78@example.net,410-498-0841,1965-09-22,2025-07-16,Active,Individual,5,811,T. Rowe Price,32931.83
+16,Darrell,Rodriguez,josephjacobs@example.net,410-534-8740,2004-10-20,2015-12-15,Active,Business,2,651,Towson University,133029.51
+17,Joshua,Smith,danagreen@example.net,410-786-8011,1955-09-12,2019-06-05,Inactive,Joint,2,819,Anne Arundel County,166534.14
+18,Edward,Johnson,brandi26@example.org,410-045-0533,2005-02-26,2022-08-20,Active,Individual,1,701,Morgan State University,154777.03
+19,Anita,Baxter,sarayoung@example.org,410-260-2563,1989-01-09,2018-08-02,Active,Joint,1,690,Morgan State University,83624.72
+20,Daniel,Brennan,dwalker@example.com,410-433-0365,1965-10-26,2023-10-16,Active,Individual,4,747,Towson University,182513.94
+21,Kerri,Bell,ifrazier@example.com,410-014-2940,1966-07-03,2015-03-06,Active,Individual,2,666,T. Rowe Price,153693.02
+22,Jessica,Edwards,cruzbarbara@example.com,410-060-8835,1956-08-18,2019-07-23,Active,Individual,3,717,Under Armour,98432.33
+23,Samantha,Hanson,cortezkevin@example.com,410-656-4823,1975-05-12,2025-09-22,Active,Joint,5,643,University of Maryland,165294.29
+24,Erica,Orr,richard04@example.com,410-369-9577,1974-09-24,2025-08-16,Inactive,Individual,1,592,Anne Arundel County,130386.75
+25,Thomas,Santana,donnacampbell@example.net,410-951-3433,1975-12-28,2016-11-27,Active,Joint,4,797,T. Rowe Price,65111.58
+26,Tracey,Carr,gibsonolivia@example.net,410-367-6320,1958-11-21,2014-11-24,Active,Individual,4,801,Johns Hopkins University,90963.33
+27,Nicole,Osborne,gregoryrubio@example.net,410-708-3172,2002-02-12,2024-08-31,Active,Joint,4,679,Towson University,69636.88
+28,Vanessa,Larson,usalazar@example.net,410-687-2774,1996-10-29,2022-05-09,Inactive,Business,4,767,MDOT,184281.36
+29,Joshua,Strickland,rsims@example.com,410-143-4558,1993-12-12,2024-06-02,Active,Business,5,628,Johns Hopkins University,74583.13
+30,Patrick,Hernandez,calebrussell@example.net,410-760-3669,1955-01-07,2016-02-25,Active,Business,4,771,BGE,77235.96
+31,Nicole,Johnston,wsmith@example.com,410-668-8937,2005-03-20,2014-07-30,Active,Individual,5,815,University of Maryland,161877.02
+32,Anthony,Rogers,dramsey@example.org,410-980-6990,1963-01-26,2019-07-28,Inactive,Individual,2,797,CareFirst,57174.52
+33,Michelle,White,nicholas37@example.com,410-564-6417,1955-03-19,2019-06-27,Inactive,Individual,5,610,UMMS,175830.59
+34,Zoe,Bell,harringtondenise@example.org,410-330-9232,1951-06-20,2020-10-24,Active,Business,5,590,UMMS,125242.9
+35,Stacie,Marshall,katie29@example.net,410-124-1904,1977-10-23,2015-09-19,Active,Individual,3,713,T. Rowe Price,77670.07
+36,Nicholas,David,charlesvaughn@example.net,410-314-9190,1983-09-28,2025-03-27,Suspended,Business,3,647,Under Armour,90138.38
+37,Mitchell,Hunter,alexander67@example.org,410-657-2628,1970-06-25,2019-06-26,Active,Individual,4,660,UMMS,173855.88
+38,Lindsey,Medina,umarshall@example.net,410-453-1473,2006-05-05,2017-08-01,Active,Business,2,724,BGE,184387.14
+39,Elizabeth,Rogers,lrosales@example.com,410-354-5494,1993-11-14,2021-03-07,Active,Individual,2,647,Leidos,48795.68
+40,James,Allen,wfreeman@example.org,410-777-0143,1982-07-31,2020-07-16,Inactive,Business,3,652,UMMS,52766.25
+41,Elizabeth,Wood,ronald85@example.com,410-744-4313,1973-10-19,2017-04-06,Active,Business,5,786,Northrop Grumman,130674.28
+42,Stephanie,Vaughn,javierwashington@example.net,410-989-4134,1968-08-23,2023-04-04,Active,Joint,1,818,University of Maryland,132152.03
+43,Alexis,Ferguson,brandon08@example.com,410-271-0947,1963-07-16,2016-06-30,Active,Joint,5,770,T. Rowe Price,114856.11
+44,Tammy,King,ewilson@example.com,410-719-0229,1978-02-09,2018-06-06,Suspended,Business,3,763,BGE,81832.21
+45,John,Grant,yobrien@example.net,410-386-7749,2005-05-24,2015-05-14,Active,Individual,4,705,Self-Employed,67426.04
+46,Christine,Lynch,mezajared@example.org,410-412-3281,2007-10-07,2018-01-03,Active,Individual,3,650,MDOT,34921.62
+47,Hannah,Harrison,halljasmine@example.net,410-713-4936,1959-06-04,2019-03-31,Suspended,Joint,5,769,Johns Hopkins University,97368.18
+48,Edward,Baker,charlesmartin@example.com,410-994-7174,1956-12-31,2017-01-15,Suspended,Individual,5,608,Johns Hopkins University,39813.29
+49,Vincent,Snyder,georgepamela@example.net,410-594-0139,1990-12-05,2025-08-26,Inactive,Individual,4,793,MDOT,85966.91
+50,Kathy,Underwood,hinesgregory@example.net,410-742-9671,1984-05-25,2014-08-04,Active,Joint,2,590,Morgan State University,76396.56
+51,Manuel,Garcia,marksteele@example.com,410-680-7154,1977-08-09,2019-03-30,Active,Business,4,643,UMMS,132708.55
+52,Richard,Robertson,sandovalamy@example.com,410-038-5977,1969-02-03,2025-12-25,Active,Individual,2,771,CareFirst,52264.87
+53,Andrea,Pennington,fgilmore@example.org,410-093-2480,1994-06-04,2016-10-13,Active,Joint,2,586,Northrop Grumman,56159.62
+54,Victoria,Durham,pvalentine@example.org,410-748-4677,1982-05-17,2015-06-18,Active,Joint,1,620,Self-Employed,151617.8
+55,Patrick,Weeks,michellehill@example.com,410-584-0449,1964-06-24,2020-12-15,Active,Joint,3,700,Self-Employed,62922.09
+56,Michelle,Griffin,jreed@example.net,410-675-3396,1983-12-24,2022-04-05,Active,Individual,2,783,CareFirst,164797.72
+57,Bradley,Garner,qhughes@example.net,410-270-2895,1963-11-22,2023-08-25,Active,Joint,3,664,Morgan State University,71740.68
+58,Scott,Fox,jsmith@example.com,410-217-4596,2000-10-14,2024-10-30,Inactive,Joint,1,710,University of Maryland,90749.51
+59,Melissa,Villarreal,ofinley@example.net,410-780-9134,1988-01-13,2024-07-24,Active,Business,3,804,Johns Hopkins University,180352.9
+60,Ryan,Garcia,wallaceheather@example.org,410-050-4556,2008-03-12,2023-04-21,Active,Business,3,607,CareFirst,121661.69
+61,Ashlee,Sparks,gregorylynch@example.com,410-937-9237,1958-10-14,2020-09-18,Active,Joint,5,735,T. Rowe Price,182525.03
+62,Elizabeth,Nolan,rsantana@example.net,410-217-5946,1987-05-06,2019-11-09,Active,Individual,5,645,Anne Arundel County,34968.69
+63,Kevin,Kidd,yrodriguez@example.net,410-594-4064,1990-05-20,2019-10-28,Suspended,Business,2,717,Leidos,135836.57
+64,Kimberly,Beltran,swall@example.org,410-953-3942,1950-10-24,2024-09-20,Suspended,Joint,5,690,Leidos,38985.89
+65,Debbie,Parker,xjohnson@example.net,410-214-5623,1986-10-13,2025-03-07,Suspended,Joint,5,749,Northrop Grumman,161138.4
+66,Teresa,Schmidt,maria47@example.com,410-517-1236,1958-01-03,2020-10-24,Active,Business,3,750,BGE,92117.69
+67,Michael,Gibbs,bakerdavid@example.com,410-496-5137,2006-06-12,2023-12-30,Suspended,Joint,2,612,UMMS,58118.89
+68,Anna,Herman,deborahreid@example.com,410-461-2004,1951-10-18,2024-12-13,Inactive,Individual,3,725,Northrop Grumman,75249.13
+69,Jimmy,Medina,qchavez@example.net,410-869-2617,2008-02-09,2015-09-26,Inactive,Business,3,633,Under Armour,95492.44
+70,Joshua,Vaughn,scottsampson@example.com,410-158-5064,1986-01-19,2025-08-10,Active,Business,4,693,Anne Arundel County,97419.09
+71,Melanie,Gibson,darleneharper@example.org,410-053-2931,1961-05-09,2015-10-23,Suspended,Individual,1,810,Northrop Grumman,178693.62
+72,Brenda,Li,markhernandez@example.net,410-042-2842,1998-06-22,2020-12-28,Inactive,Joint,1,711,Self-Employed,132225.05
+73,David,Howard,briannasmith@example.com,410-026-8117,1956-09-19,2024-09-26,Active,Individual,2,772,MDOT,64874.37
+74,Brittney,Hayes,soniawilliams@example.net,410-847-0076,1976-05-05,2018-09-08,Active,Business,1,586,Under Armour,35255.55
+75,Jennifer,Wallace,morriseddie@example.org,410-499-8569,1975-01-25,2015-08-22,Inactive,Individual,4,686,Under Armour,167123.49
+76,Catherine,Garcia,farrelldebra@example.net,410-367-3657,1981-02-11,2019-10-15,Suspended,Business,1,682,Anne Arundel County,66305.56
+77,Larry,Edwards,nicholas27@example.org,410-111-6152,1973-06-21,2023-02-05,Active,Joint,2,800,MDOT,148897.25
+78,Anna,Rivera,jenkinsmorgan@example.com,410-049-4519,1982-08-12,2021-05-18,Inactive,Joint,1,785,BGE,178400.67
+79,Timothy,Boone,megan51@example.com,410-936-8998,1979-10-10,2016-03-14,Active,Joint,2,643,Anne Arundel County,172042.79
+80,Maria,Adams,joshuafarmer@example.com,410-502-2961,1951-11-13,2025-06-28,Inactive,Business,3,698,Anne Arundel County,132809.7
+81,Anthony,Reese,nicholaschavez@example.org,410-545-9910,1958-07-28,2021-12-09,Suspended,Business,4,808,Self-Employed,97484.03
+82,Brandon,Miller,fstanley@example.net,410-764-3815,1959-05-14,2023-05-24,Active,Business,4,812,Under Armour,114015.9
+83,Erika,Tucker,brandon69@example.org,410-034-3244,1975-04-12,2017-09-28,Suspended,Joint,5,646,Under Armour,146028.96
+84,Julie,Thompson,opatel@example.net,410-851-6060,1969-05-17,2014-06-08,Active,Individual,3,740,T. Rowe Price,65561.6
+85,Lawrence,Patterson,amckinney@example.com,410-160-5297,1977-01-03,2015-04-12,Inactive,Individual,2,649,MDOT,80728.06
+86,Christopher,Richard,ryanmorales@example.org,410-645-3521,1998-08-08,2025-05-18,Active,Business,2,639,University of Maryland,88136.54
+87,William,Bullock,michael23@example.org,410-243-2921,1979-12-14,2015-09-17,Inactive,Joint,4,686,Johns Hopkins University,91993.1
+88,Troy,Webster,kmaldonado@example.net,410-955-2717,1960-08-13,2023-08-13,Active,Business,1,632,Self-Employed,158763.91
+89,Joshua,Brown,collinsshannon@example.org,410-541-1998,1975-12-29,2017-12-22,Active,Joint,1,805,Leidos,148198.35
+90,Stephanie,Stevenson,colelisa@example.net,410-359-7820,1972-08-23,2021-04-22,Active,Business,5,656,Anne Arundel County,146295.59
+91,Mary,Haas,wagnergerald@example.org,410-778-8925,1976-06-22,2024-01-27,Active,Individual,3,734,CareFirst,168956.38
+92,Riley,Morgan,mccormickdeborah@example.org,410-518-6449,1971-12-20,2017-09-26,Active,Business,4,704,Towson University,32556.9
+93,Brandi,Thomas,kyle62@example.net,410-148-6528,2000-12-29,2018-05-05,Active,Business,5,622,Johns Hopkins University,159959.39
+94,William,Smith,henry35@example.com,410-332-2141,1955-10-06,2022-05-21,Inactive,Business,1,812,University of Maryland,89861.18
+95,Joanna,Rose,nancy92@example.net,410-622-2927,1979-10-16,2020-10-26,Active,Individual,1,744,Northrop Grumman,95292.2
+96,Jennifer,Montes,karen73@example.net,410-347-3597,1952-11-16,2018-09-18,Active,Joint,3,677,Anne Arundel County,79394.37
+97,Patrick,Rose,lisasolis@example.org,410-407-5818,1977-02-13,2017-09-21,Active,Joint,1,805,Under Armour,87522.82
+98,Kathryn,Nelson,mariahdavis@example.org,410-750-6068,1999-09-17,2017-10-06,Active,Joint,2,584,Morgan State University,145596.81
+99,Christopher,Walker,sarah52@example.org,410-047-2779,1972-01-13,2018-12-23,Suspended,Individual,1,597,T. Rowe Price,150653.59
+100,Jonathan,Conley,srodriguez@example.org,410-410-3697,1950-08-25,2015-04-18,Inactive,Individual,2,631,MDOT,159758.93
