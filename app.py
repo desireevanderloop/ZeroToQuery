@@ -151,6 +151,7 @@ conn = load_data()
 # SIDEBAR
 # ─────────────────────────────────────────────
 with st.sidebar:
+    st.image("BJCU.png", use_container_width=True)
     st.markdown("### About ZeroToQuery")
     st.write("ZeroToQuery is a schema-aware SQL assistant built exclusively for Blue Jay Credit Union branch operations analysts. Unlike general-purpose AI tools, ZeroToQuery knows BJCU's exact Snowflake database structure, including every table, every column, and every relationship. Analysts describe what KPI data they need in plain English and receive a production-ready Snowflake SQL query using BJCU's real schema, plus live results from the BJCU data warehouse. No SQL knowledge required. No schema lookup required. No manual editing required.")
     st.markdown("### How to Use")
