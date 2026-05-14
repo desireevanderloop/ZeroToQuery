@@ -6,6 +6,8 @@
 
 **Snowflake SQL for Blue Jay Credit Union — Built for Branch Operations Analysts**
 
+**Live App:** https://zerotoquery.streamlit.app
+
 ZeroToQuery is a schema-aware SQL assistant built exclusively for Blue Jay Credit Union branch operations analysts. Unlike general-purpose AI tools, ZeroToQuery knows BJCU's exact Snowflake database structure, including every table, every column, and every relationship. Analysts describe what KPI data they need in plain English and receive a production-ready Snowflake SQL query using BJCU's real schema, plus live results from the BJCU data warehouse. No SQL knowledge required. No schema lookup required. No manual editing required.
 
 ---
@@ -18,7 +20,7 @@ The problem is that many operations staff and branch managers who need this data
 
 Existing general-purpose AI tools like ChatGPT cannot solve this problem because they do not know BJCU's database schema. They invent table and column names that do not exist, producing queries that fail immediately when run in Snowflake. Every query still requires manual correction by someone who knows the schema, defeating the purpose.
 
-ZeroToQuery solves this by embedding BJCU's complete Snowflake schema directly into the tool. When an analyst describes what data they need, ZeroToQuery generates a query using the exact table names, column names, and join relationships from BJCU's live data warehouse — and immediately runs it against the BJCU dataset to return real results. The output is ready to copy and run in Snowflake with no editing required.
+ZeroToQuery solves this by embedding BJCU's complete Snowflake schema directly into the tool. When an analyst describes what data they need, ZeroToQuery generates a query using the exact table names, column names, and join relationships from BJCU's live data warehouse, and immediately runs it against the BJCU dataset to return real results. The output is ready to copy and run in Snowflake with no editing required.
 
 ---
 
