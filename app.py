@@ -204,7 +204,7 @@ if generate:
     else:
         with st.spinner("Generating your SQL query..."):
             message = client.messages.create(
-                model="claude-sonnet-4-20250514",
+                model="claude-sonnet-5",
                 max_tokens=1000,
                 messages=[
                     {
